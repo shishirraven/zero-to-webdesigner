@@ -34,7 +34,7 @@ Start with 0 knowledge to learn essentials for building professional web page.
 4. Bootstrap Flex box system. 
 5. Bootstrap components - Using Navbar and feaatures. 
 6. Bootstrap Utilities - Using Background Classes. 
-7. Bootstrapa Utilties Font Sizes. 
+7. Bootstrap Utilties Font Sizes. 
 8. Bootstrap Buttons Classes and Utilities. 
 
 -----
