@@ -1,4 +1,4 @@
-# zero_to_webdesigner
+# Zero to Web Designer
 Start with 0 knowledge to learn essentials for building professional web page.
 
 ## Course outline. 
