@@ -1,0 +1,24 @@
+Bootstrap Grid. 
+
+Uses Containers, Rows, and Columns to create a Layout. 
+
+Containers. 
+Containers provide a means to center and horizontally pad your site’s contents. 
+Use .container for a responsive pixel width 
+or .container-fluid for width: 100% across all viewport and device sizes.
+
+```html
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      One of three columns
+    </div>
+    <div class="col-sm">
+      One of three columns
+    </div>
+    <div class="col-sm">
+      One of three columns
+    </div>
+  </div>
+</div>
+```
