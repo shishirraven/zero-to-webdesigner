@@ -8,7 +8,12 @@ Let me explain you some basic terminologies before I move into explaining how yo
 ## Layouts
 The elements on the page can be arranged in many different layouts. But a good layout is the one which places things considering the convenience of the target user. To help you understand more about this. Check some layouts of top popular websites. 
 
-1. Google.com 
+1. https://www.google.com
+Google.com tops wikipedia [top 10 websites in the world.](https://en.wikipedia.org/wiki/List_of_most_popular_websites) Lets checkout its layout. 
+
+Inline-style: 
+![Google.com Layout](images/google_layout.png "Google.com")
+
 
 
 
