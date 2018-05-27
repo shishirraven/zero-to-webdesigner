@@ -15,9 +15,6 @@ Inline-style:
 ![Google.com Layout](images/google_layout.png "Google.com")
 
 
-
-
-
 Every page has some sort of layout. 
 Layout very simply means how we place the content on the website. 
 For example 
@@ -94,3 +91,7 @@ If we want a first column to be two portions and the thrird column to be of one 
 </div>
 ```
 
+
+## Resources. 
+
+- Want to know tips and examples of good homepage layout. Checkout this article [https://www.websitebuilderexpert.com/awesome-home-page-design-layouts/](https://www.websitebuilderexpert.com/awesome-home-page-design-layouts/)
