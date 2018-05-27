@@ -1,5 +1,18 @@
 # Bootstrap Grid. 
 
+Let me guess, you are a person who wants to arrange elements such as logo, headline, call to action button in a layout on your page. 
+If that is true, you are in the right place. 
+
+Let me explain you some basic terminologies before I move into explaining how you can use Bootstrap grid utilities to arrange things systemacially onto your page. 
+
+## Layouts
+The elements on the page can be arranged in many different layouts. But a good layout is the one which places things considering the convenience of the target user. To help you understand more about this. Check some layouts of top popular websites. 
+
+1. Google.com 
+
+
+
+
 Every page has some sort of layout. 
 Layout very simply means how we place the content on the website. 
 For example 
