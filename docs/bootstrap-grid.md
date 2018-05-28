@@ -14,6 +14,8 @@ Google.com tops wikipedia [top 10 websites in the world.](https://en.wikipedia.o
 Inline-style: 
 ![Google.com Layout](images/google_layout.png "Google.com")
 
+Isn't it a pretty simple layout with very little elements on the page. 
+
 
 Every page has some sort of layout. 
 Layout very simply means how we place the content on the website. 
@@ -90,7 +92,6 @@ If we want a first column to be two portions and the thrird column to be of one 
 <!-- Row -->
 </div>
 ```
-
 
 ## Resources. 
 
