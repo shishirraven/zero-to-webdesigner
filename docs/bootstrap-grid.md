@@ -17,6 +17,8 @@ Inline-style:
 Isn't it a pretty simple layout with very little elements on the page. 
 
 
+
+
 Every page has some sort of layout. 
 Layout very simply means how we place the content on the website. 
 For example 
