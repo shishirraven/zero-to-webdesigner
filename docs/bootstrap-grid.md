@@ -16,6 +16,11 @@ Inline-style:
 
 Isn't it a pretty simple layout with very little elements on the page. 
 
+2. http://www.youtube.com
+Youtubes layout as compared to google.com is complex. 
+![youtube.com Layout](images/youtube_layout.png "Youtube.com")
+
+
 
 
 
